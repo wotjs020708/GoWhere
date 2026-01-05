@@ -63,12 +63,6 @@ cd GoWhere
 open GoWhere.xcodeproj
 ```
 
-3. 시뮬레이터 또는 실제 기기에서 실행
-
-## 📄 라이선스
-
-MIT License
-
 ## 👨‍💻 개발자
 
 - **jaesuneo**
